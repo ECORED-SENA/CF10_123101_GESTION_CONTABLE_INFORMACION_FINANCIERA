@@ -109,7 +109,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema4',
         numero: '4',
         titulo:
           'Instrumentos Financieros – Clientes y otras cuentas por cobrar',
@@ -133,7 +133,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema3',
+        nombreRuta: 'tema5',
         numero: '5',
         titulo: 'Gastos',
         desarrolloContenidos: true,
