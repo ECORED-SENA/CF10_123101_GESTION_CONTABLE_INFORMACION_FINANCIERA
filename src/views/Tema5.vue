@@ -559,11 +559,36 @@
 
         p.mb-4 Una entidad presentará un desglose de gastos, utilizando una clasificación basada en la naturaleza o en la función de los gastos dentro de la entidad, lo que proporcione una información que sea fiable y más relevante.
 
-      .col-lg-4
+      .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema5/3.svg', alt='')
 
 
+
+    .row.justify-content-center.align-items-stretch.mb-4
+      .col-lg-4.mb-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema5/4.svg', alt='')
+
+      .col-lg-4.mb-4
+        .tarjeta--boton.bg-color-8.p-4.text-center.h-100(data-aos="flip-up")
+          img(src='@/assets/curso/tema5/5.svg', alt='', style="max-width: 90px").mx-auto.mb-4
+          h4.text-center.mb-4 Desglose por naturaleza de los gastos
+          p.text-center Según este método de clasificación los gastos se agrupan en el estado del resultado integral de acuerdo con su naturaleza (por ejemplo, depreciación, compras de materiales, costos de transporte, beneficios a los empleados y costos de publicidad) y no los redistribuirá entre las diferentes funciones dentro de la entidad.
+
+      .col-lg-4.mb-4
+        .tarjeta--boton.bg-color-8.p-4.text-center.h-100(data-aos="flip-up")
+          img(src='@/assets/curso/tema5/6.svg', alt='', style="max-width: 90px").mx-auto.mb-4
+          h4.text-center.mb-4 Desglose por función de los gastos
+          p.text-center Según este método de clasificación, los gastos se agruparán de acuerdo con su función como parte del Costo de las ventas o, por ejemplo, de los costos de actividades de distribución o administración. Como mínimo una entidad revelará, según este método, su costo de ventas de forma separada de otros gastos.
+
+
+
+    .row.align-items-center
+      .col-lg-auto.d-none.d-lg-block
+        img(src="@/assets/curso/tema5/7.svg", style="max-width: 90px").mx-auto
+      .col-lg
+        p.mb-0 Por otro lado, la entidad revelará en notas a los estados financieros las políticas contables adoptadas para el reconocimiento de los gastos incurridos para actividades ordinarias, mostrándolos de forma separada de aquellos gastos incurridos de forma extraordinaria.
 
 
 </template>
