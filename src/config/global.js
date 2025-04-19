@@ -198,10 +198,27 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Política contable',
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2016). <em>Norma Internacional de Contabilidad 2: Inventarios.</em>',
+      tipo: 'Artículo oficial',
+      link:
+        'https://www.aplicaciones-mcit.gov.co/adjuntos/niif/9%20ES_RedBV2016_IAS02_PartA.pdf',
+    },
+    {
+      tema: 'Política contable',
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2016). <em>Norma Internacional de Contabilidad 8: Políticas contables.</em>',
+      tipo: 'Artículo oficial',
+      link:
+        'https://www.aplicaciones-mcit.gov.co/adjuntos/niif/11%20ES_RedBV2016_IAS08_PartA.pdf',
+    },
+    {
+      tema: 'Manejo de cartera fiscal',
+      referencia:
+        'Gerencie. (2020, diciembre 16). <em>Provisión de Cartera.</em>',
+      tipo: 'Artículo web',
+      link: 'https://www.gerencie.com/provision-de-cartera.html',
     },
   ],
   glosario: [
