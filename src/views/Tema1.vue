@@ -252,7 +252,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        p.mb-4 #[strong Ejemplo:] La empresa realiza en el mes las siguientes operaciones de su producto de inventarios "Camiseta" (todas las operaciones se hacen de contado).
+        p.mb-4 #[strong Ejemplo:] la empresa realiza en el mes las siguientes operaciones de su producto de inventarios "Camiseta" (todas las operaciones se hacen de contado).
 
         .row
           .col-lg-5
@@ -558,7 +558,7 @@
 
         .row.justify-content-center
           .col-lg-10
-            p.mb-4 #[strong Ejemplo:] La empresa realiza en el mes, las siguientes operaciones de su producto de inventarios “Camiseta” (todas las operaciones se hacen de contado).
+            p.mb-4 #[strong Ejemplo:] la empresa realiza en el mes, las siguientes operaciones de su producto de inventarios “Camiseta” (todas las operaciones se hacen de contado).
 
             .row.mb-5
               .col-lg-4.d-none.d-lg-block
