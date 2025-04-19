@@ -904,12 +904,12 @@
     #t_1_3.titulo-segundo.color-acento-contenido.mb-5(data-aos="flip-up")
       h2 1.3 Medición, reconocimiento con impuestos y retenciones
 
-    p.mb-5 La medición de los inventarios consiste en determinar el valor por el cual serán reconocidos en los estados financieros. La NIC 2, hace referencia de las técnicas para la medición inicial y posterior del costo de los inventarios, tales como el método del costo estándar o el método de los minoristas, los cuales podrán ser utilizadas por conveniencia siempre que el resultado de aplicarlas se aproxime al costo.
+    p.mb-4 La medición de los inventarios consiste en determinar el valor por el cual serán reconocidos en los estados financieros. La NIC 2, hace referencia de las técnicas para la medición inicial y posterior del costo de los inventarios, tales como el método del costo estándar o el método de los minoristas, los cuales podrán ser utilizadas por conveniencia siempre que el resultado de aplicarlas se aproxime al costo.
 
     .row.justify-content-center
       .col-lg-9
         .row.align-items-center.mb-4
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             img(src="@/assets/curso/tema1/12.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 Los costos estándares tendrán en cuenta los niveles normales de materias primas, suministros, mano de obra, eficiencia y utilización de la capacidad. Estos se revisarán de forma regular y, si es necesario, se cambiarán en función de las condiciones actuales.
@@ -941,7 +941,7 @@
       .col-lg-7
 
         .row.align-items-center.mb-4
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             img(src="@/assets/curso/tema1/16.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 De acuerdo con la sección 13 de NIIF para Pymes (2009), cuando los inventarios se vendan, la entidad reconocerá el importe en libros de estos como un costo (gasto) en el período en el que se reconozcan los correspondientes ingresos de actividades ordinarias.
@@ -1213,7 +1213,7 @@
       .col-lg-11
         .bg-color-2
           .row.align-items-center
-            .col-lg-4
+            .col-lg-4.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/tema1/17.svg").mx-auto.my-4.my-lg-0
             .col-lg-8

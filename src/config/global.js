@@ -36,13 +36,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Inventarios',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Política contable',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Concepto, tipos de inventario, valuación de inventarios',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Medición, reconocimiento con impuestos y retenciones',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Presentación y revelación',
+            hash: 't_1_4',
           },
         ],
       },
@@ -50,14 +65,90 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Instrumentos financieros – Cuentas por pagar',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Política contable',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Medición y reconocimiento',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: ' Presentación y revelación',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Ingresos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Política contable',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Medición, reconocimiento con impuestos y retenciones',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Presentación y revelación',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '4',
+        titulo:
+          'Instrumentos Financieros – Clientes y otras cuentas por cobrar',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Política contable',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Manejo de cartera fiscal',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Deterioro de cuentas por cobrar',
+            hash: 't_4_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema3',
+        numero: '5',
+        titulo: 'Gastos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo: 'Política contable',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Presentación y revelación',
+            hash: 't_5_2',
+          },
+        ],
       },
     ],
     subMenu: [
