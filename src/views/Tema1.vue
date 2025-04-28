@@ -20,7 +20,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido.mb-5(data-aos="flip-up")
       h2 1.1  Política contable
 
-    p.mb-4 Dentro del manual de políticas contables establecido por la empresa es de especial importancia el capítulo correspondiente a los inventarios, pues a través de este se establecen los lineamientos a seguir para la determinación del sistema y método de valuación de los inventarios y su correspondiente tratamiento en las diferentes operaciones.
+    p.mb-4 Dentro del manual de políticas contables establecido por la empresa, es de especial importancia el capítulo correspondiente a los inventarios, pues a través de este se establecen los lineamientos a seguir para la determinación del sistema y método de valuación de los inventarios y su correspondiente tratamiento en las diferentes operaciones.
 
     .row.mb-5
       .col-lg-4
@@ -35,7 +35,7 @@
             .col-lg-auto
               img(src="@/assets/curso/tema1/3.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 Otro aspecto fundamental que debe incluirse en la política de inventarios es el establecimiento de los precios de venta, pues la sección 13 de NIIF para Pymes (2009), requiere que se haga una comparación entre el costo de adquisición y los egresos necesarios para ponerlo en condiciones de venta y el precio de venta neto estimado, para determinar los costos de venta del inventario.
+              p.mb-0 Otro aspecto fundamental que debe incluirse en la política de inventarios es el establecimiento de los precios de venta, pues la sección 13 de NIIF para Pymes (2009) requiere que se haga una comparación entre el costo de adquisición y los egresos necesarios para ponerlo en condiciones de venta y el precio de venta neto estimado, para determinar los costos de venta del inventario.
 
         .row.align-items-center
           .col-lg-auto.d-none.d-lg-block
@@ -62,7 +62,7 @@
               p.mb-0 Las NIIF se acompañan de guías que ayudan a las entidades a aplicar sus requerimientos.
             li.mb-3.d-flex.mb-2
               i.fas.fa-chevron-right
-              p.mb-0 En ausencia de una NIIF que sea aplicable específicamente a una transacción, la gerencia deberá usar su juicio en el desarrollo y aplicación de una política contable, a fin de suministrar información que sea: relevante, fiable, fidedigna, neutral, prudente y reflejen la esencia económica de las transacciones y no simplemente su forma legal.
+              p.mb-0 En ausencia de una NIIF que sea aplicable específicamente a una transacción, la gerencia deberá usar su juicio en el desarrollo y aplicación de una política contable, a fin de suministrar información que sea: relevante, fiable, fidedigna, neutral, prudente y que reflejen la esencia económica de las transacciones y no simplemente su forma legal.
             li.mb-3.d-flex
               i.fas.fa-chevron-right
               p.mb-0 La gerencia se referirá a las fuentes para considerar su aplicabilidad; como los requerimientos de temas relacionados y las definiciones, reconocimiento y medición para los elementos de los estados financieros.
@@ -91,7 +91,7 @@
                   p.text-center Deben ser considerados como activos poseídos para ser vendidos en el curso normal de la operación.
                 .tarjeta.bg-color-white.p-4.h-100.shadow-app.text-center
                   img(src='@/assets/curso/tema1/icono-2.svg' alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
-                  p.text-center Identificados como elementos del proceso de producción con destino a ser vendido
+                  p.text-center Identificados como elementos del proceso de producción con destino a ser vendido.
                 .tarjeta.bg-color-white.p-4.h-100.shadow-app.text-center
                   img(src='@/assets/curso/tema1/icono-3.svg' alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
                   p.text-center Establecidos como materiales o suministros que serán consumidos en el proceso de producción o en la prestación de servicios.
@@ -143,7 +143,7 @@
               figure
                 img(src="@/assets/curso/tema1/slider-4.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              p Los costos de transformación de los inventarios comprenderán a aquellos costos relacionados con las unidades de producción, tales como la materia prima directa, la mano de obra directa y los costos indirectos de producción.
+              p Los costos de transformación de los inventarios comprenderán aquellos costos relacionados con las unidades de producción, tales como la materia prima directa, la mano de obra directa y los costos indirectos de producción.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -169,7 +169,7 @@
                   ul.lista-ul--color.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-chevron-right
-                      p.mb-0 Poseídos para vendidos en el curso normal del negocio.
+                      p.mb-0 Poseídos para ser vendidos en el curso normal del negocio.
 
                 .bg-color-white.p-3.mb-2
                   ul.lista-ul--color.mb-0
@@ -302,7 +302,7 @@
 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.
-          span Registro de inventario bajo el método de promedio ponderado
+          span Registro de inventario bajo el método de Promedio Ponderado.
 
 
         .bloque-tabla-responsive
@@ -1207,7 +1207,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido.mb-5(data-aos="flip-up")
       h2 1.4 Presentación y revelación
 
-    p.mb-5 La presentación de los inventarios hace referencia a como estos se encuentran reflejados en los estados financieros.
+    p.mb-5 La presentación de los inventarios hace referencia a cómo se reflejan en los estados financieros.
 
     .row.mb-5.justify-content-center.mb-4
       .col-lg-11

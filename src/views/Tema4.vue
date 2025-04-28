@@ -26,13 +26,13 @@
 
       .col-lg-6
         .tarjeta.bg-color-4.p-4.mb-4(data-aos="fade-up")
-          p.mb-0 Si bien dentro de los activos como instrumentos financieros se identifican entre otros el efectivo y equivalentes al efectivo y las inversiones; son las cuentas comerciales por cobrar a clientes generadas a partir de la operación de venta de inventarios.
+          p.mb-0 Si bien dentro de los activos como instrumentos financieros se identifican, entre otros, el efectivo y equivalentes al efectivo y las inversiones; son las cuentas comerciales por cobrar a clientes generadas a partir de la operación de venta de inventarios.
 
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             img(src="@/assets/curso/tema4/2.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 Las cuentas comerciales por cobrar se generan a partir de la venta de inventarios a crédito a un cliente; quien puede tratarse de una persona natural o jurídica que se convierten en un deudor comercial a partir de la entrega de los inventarios, sin restricciones a la propiedad de estos.
+            p.mb-0 Las cuentas comerciales por cobrar se generan a partir de la venta de inventarios a crédito a un cliente; que puede tratarse de una persona natural o jurídica, que se convierte en un deudor comercial a partir de la entrega de los inventarios, sin restricciones a la propiedad de estos.
 
         
 
@@ -85,7 +85,7 @@
   
     .row.mb-4
       .col-lg-7
-        p.mb-4 De acuerdo con la sección 11 de NIIF para Pymes (2009), dentro de la elección de la política contable se consideran entre los instrumentos financieros de deuda, los préstamos por cobrar a terceros y las cuentas de origen comercial por cobrar a clientes.
+        p.mb-4 De acuerdo con la sección 11 de NIIF para Pymes (2009), dentro de la elección de la política contable se consideran, entre los instrumentos financieros de deuda, los préstamos por cobrar a terceros y las cuentas de origen comercial por cobrar a clientes.
 
         .row.align-items-center
           .col-lg-auto
@@ -103,7 +103,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido.mb-5(data-aos="flip-up")
       h2 4.2 Manejo de cartera fiscal
 
-    p.mb-4 La cartera de clientes se genera a partir de las operaciones comerciales de venta cuando su forma de pago total o parcialmente no se otorga en el mismo momento y por el contrario esta ocurre en el futuro sobre se generan los correspondientes compromisos.
+    p.mb-4 La cartera de clientes se genera a partir de las operaciones comerciales de venta cuando su forma de pago total o parcialmente no se otorga en el mismo momento y, por el contrario, esta ocurre en el futuro, sobre esta se generan los correspondientes compromisos.
 
     .row.mb-5
       .col-lg-8
@@ -150,19 +150,19 @@
                 ul.lista-ul--color.mb-0
                   li.d-flex.mb-0
                     i.fas.fa-chevron-right
-                    p.mb-0 De 91 a 180 días aplicar un deterioro del 5%
+                    p.mb-0 De 91 a 180 días, aplicar un deterioro del 5 %.
 
               .bg-color-white.p-2.mb-2
                 ul.lista-ul--color.mb-0
                   li.d-flex.mb-0
                     i.fas.fa-chevron-right
-                    p.mb-0 De 181 a 360 días aplicar un deterioro del 10%
+                    p.mb-0 De 181 a 360 días, aplicar un deterioro del 10 %.
 
               .bg-color-white.p-2.mb-2
                 ul.lista-ul--color.mb-0
                   li.d-flex.mb-0
                     i.fas.fa-chevron-right
-                    p.mb-0 Más de 360 días aplicar un deterioro del 15%
+                    p.mb-0 Más de 360 días, aplicar un deterioro del 15 %.
 
     .bg-full-width.bg-fondo-6
       .px-4.px-md-5
@@ -206,7 +206,7 @@
 
 
             .bg-color-9.p-4
-              p.mb-0 Con fundamento en la sección 11 de la NIIF para Pymes (2009), referente a los instrumentos financieros, el deterioro de los activos financieros y en particular la cartera de clientes se debe reconocer mediante la evidencia objetiva que reúnan los preparadores de información financiera a partir de la evaluación que se haga de las cuentas por cobrar.
+              p.mb-0 Con fundamento en la sección 11 de la NIIF para Pymes (2009), referente a los instrumentos financieros, el deterioro de los activos financieros y, en particular la cartera de clientes se debe reconocer mediante la evidencia objetiva que reúnan los preparadores de información financiera a partir de la evaluación que se haga de las cuentas por cobrar.
 
 
 
@@ -355,7 +355,7 @@
                     li 
                       .lista-ol--cuadro__vineta
                         span 3
-                      | Se recupera un 10 % de la cartea a más de 360 días más 5 % de interés.
+                      | Se recupera un 10 % de la cartera a más de 360 días más 5 % de interés.
 
                     li 
                       .lista-ol--cuadro__vineta

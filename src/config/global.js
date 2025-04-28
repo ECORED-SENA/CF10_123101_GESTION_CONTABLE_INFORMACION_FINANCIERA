@@ -270,7 +270,7 @@ export default {
     {
       termino: 'Valuación de inventarios',
       significado:
-        'Asignación de valor a los inventarios destinados para la venta con el fin de hallar tanto el costo de venta como el costo de existencia, utilizando un método de valuación como promedio ponderado o primeras en entrar y primeras en salir',
+        'asignación de valor a los inventarios destinados para la venta, con el fin de determinar tanto el costo de venta como el costo de existencia, utilizando un método de valuación, como el Promedio Ponderado o el de Primeras en Entrar y Primeras en Salir.',
     },
     {
       termino: 'Venta',

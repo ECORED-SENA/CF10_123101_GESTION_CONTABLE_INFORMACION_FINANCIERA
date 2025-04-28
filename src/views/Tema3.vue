@@ -60,13 +60,13 @@
                 img(src='@/assets/curso/tema3/2.svg', alt='')
             .col-lg
               .p-4
-                p.mb-0(data-aos="fade-up") Para el tema en estudio, los ingresos de actividades ordinarias surgen en el curso de las del desarrollo del objeto social principal de la empresa y adoptan una gran variedad de nombres, tales como ventas, comisiones, intereses, dividendos, regalías y alquileres.
+                p.mb-0(data-aos="fade-up") Para el tema en estudio, los ingresos de actividades ordinarias surgen en el curso del desarrollo del objeto social principal de la empresa y adoptan una gran variedad de nombres, tales como ventas, comisiones, intereses, dividendos, regalías y alquileres.
         
 
     #t_3_1.titulo-segundo.color-acento-contenido.mb-5(data-aos="flip-up")
       h2 3.1 Política contable
 
-    p.mb-5 Los ingresos por actividades ordinarias surgen en el curso de las del desarrollo del objeto social principal de la empresa y adoptan una gran variedad de nombres, tales como ventas, comisiones, intereses, dividendos, regalías y alquileres.
+    p.mb-5 Los ingresos por actividades ordinarias surgen en el curso del desarrollo del objeto social principal de la empresa y adoptan una gran variedad de nombres, tales como ventas, comisiones, intereses, dividendos, regalías y alquileres.
 
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5
@@ -77,7 +77,7 @@
         p.mb-0 En el manual de políticas contables correspondiente a los ingresos, la empresa identifica aquellos generados por actividades ordinarias, estableciendo los lineamientos para su reconocimiento en las diferentes formas y medios de pago.
           br
           br
-          | De igual forma las políticas contables en torno a los ingresos, establecen la presentación de los mismos en los estados financieros reflejando de forma separada los de operaciones ordinarias, de aquellos de operaciones extraordinarias.
+          | De igual forma las políticas contables en torno a los ingresos, establecen la presentación de los mismos en los estados financieros, reflejando de forma separada los de operaciones ordinarias de aquellos de operaciones extraordinarias.
 
     Separador
 
@@ -292,7 +292,7 @@
             alt=""
             style="width: 90px"
           )
-          p.mb-0 Los estados financieros deben reflejar de forma separada los ingresos por operaciones de actividades ordinarias, de aquellos originados por actividades extraordinarias.
+          p.mb-0 Los estados financieros deben reflejar de forma separada los ingresos por operaciones de actividades ordinarias de aquellos originados por actividades extraordinarias.
 
 
       .col-lg-3.d-none.d-lg-block
@@ -301,7 +301,7 @@
 
       .col-lg-5
         .bg-color-4.p-4.mb-4
-          p.mb-0 De igual forma los estados financieros reflejarán por separado aquellas operaciones que disminuyen el valor de ingresos, como es el caso de las devoluciones en ventas.
+          p.mb-0 De igual forma, los estados financieros reflejarán por separado aquellas operaciones que disminuyen el valor de ingresos, como es el caso de las devoluciones en ventas.
 
         p.mb-0 Por otro lado, la entidad revelará en notas a los estados financieros las políticas contables adoptadas para el reconocimiento de los ingresos de actividades ordinarias, mostrándolas de forma separada de aquellas actividades extraordinarias.
     

@@ -434,7 +434,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 9
-                | Reembolsa la caja menor, así: $60.000 en Servicio de acueducto, $50.000 en elementos de aseo y $40.000 en papelería.
+                | Reembolsa la caja menor, así: $60.000 en servicio de acueducto, $50.000 en elementos de aseo y $40.000 en papelería.
 
             .row.mb-5.justify-content-center
               .col-lg-10
@@ -555,7 +555,7 @@
 
     .row.mb-5
       .col-lg-8
-        p.mb-4 Al igual que los ingresos, los gastos serán presentados en el Estado de Resultados de conformidad con lo establecido por la sección 5 de NIIF para Pymes (2009).
+        p.mb-4 Al igual que los ingresos, los gastos serán presentados en el estado de resultados de conformidad con lo establecido por la sección 5 de NIIF para Pymes (2009).
 
         p.mb-4 Una entidad presentará un desglose de gastos, utilizando una clasificación basada en la naturaleza o en la función de los gastos dentro de la entidad, lo que proporcione una información que sea fiable y más relevante.
 
@@ -574,13 +574,13 @@
         .tarjeta--boton.bg-color-8.p-4.text-center.h-100(data-aos="flip-up")
           img(src='@/assets/curso/tema5/5.svg', alt='', style="max-width: 90px").mx-auto.mb-4
           h4.text-center.mb-4 Desglose por naturaleza de los gastos
-          p.text-center Según este método de clasificación los gastos se agrupan en el estado del resultado integral de acuerdo con su naturaleza (por ejemplo, depreciación, compras de materiales, costos de transporte, beneficios a los empleados y costos de publicidad) y no los redistribuirá entre las diferentes funciones dentro de la entidad.
+          p.text-center Según este método de clasificación, los gastos se agrupan en el estado del resultado integral de acuerdo con su naturaleza (por ejemplo, depreciación, compras de materiales, costos de transporte, beneficios a los empleados y costos de publicidad) y no los redistribuirá entre las diferentes funciones dentro de la entidad.
 
       .col-lg-4.mb-4
         .tarjeta--boton.bg-color-8.p-4.text-center.h-100(data-aos="flip-up")
           img(src='@/assets/curso/tema5/6.svg', alt='', style="max-width: 90px").mx-auto.mb-4
           h4.text-center.mb-4 Desglose por función de los gastos
-          p.text-center Según este método de clasificación, los gastos se agruparán de acuerdo con su función como parte del Costo de las ventas o, por ejemplo, de los costos de actividades de distribución o administración. Como mínimo una entidad revelará, según este método, su costo de ventas de forma separada de otros gastos.
+          p.text-center Según este método de clasificación, los gastos se agruparán de acuerdo con su función como parte del costo de las ventas o, por ejemplo, de los costos de actividades de distribución o administración. Como mínimo una entidad revelará, según este método, su costo de ventas de forma separada de otros gastos.
 
 
 

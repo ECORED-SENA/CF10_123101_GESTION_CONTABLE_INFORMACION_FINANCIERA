@@ -99,7 +99,7 @@
 
     .row.mb-5
       .col-lg-7
-        p(data-aos="fade-left").mb-4 De acuerdo con la sección 11 de NIIF para Pymes, (2009), dentro de la elección de la política contable se consideran entre los instrumentos financieros de deuda, las cuentas de origen comercial, pagarés, préstamo por pagar y préstamos de bancos o terceros.
+        p(data-aos="fade-left").mb-4 De acuerdo con la sección 11 de NIIF para Pymes (2009), dentro de la elección de la política contable se consideran, entre los instrumentos financieros de deuda, las cuentas de origen comercial, los pagarés, los préstamos por pagar y los préstamos de bancos o terceros.
     
         .tarjeta.bg-color-1.p-4(data-aos="fade-left").mb-4
           .row.align-items-start
@@ -212,7 +212,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/13.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las entidades que solo tienen instrumentos financieros básicos, como las cuentas por pagar de corto plazo a proveedores no tendrán ningún pasivo financiero medido al valor razonable y por lo tanto, en notas a los estados financieros se limitarán a detallar la identificación de los proveedores, las facturas, los vencimientos y los saldos.      
+            p.mb-0 Las entidades que solo tienen instrumentos financieros básicos, como las cuentas por pagar de corto plazo a proveedores, no tendrán ningún pasivo financiero medido al valor razonable y, por lo tanto, en las notas a los estados financieros, se limitarán a detallar la identificación de los proveedores, las facturas, los vencimientos y los saldos.  
 
 </template>
 
