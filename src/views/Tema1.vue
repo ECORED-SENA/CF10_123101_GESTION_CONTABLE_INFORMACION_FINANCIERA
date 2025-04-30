@@ -91,7 +91,7 @@
                   p.text-center Deben ser considerados como activos poseídos para ser vendidos en el curso normal de la operación.
                 .tarjeta.bg-color-white.p-4.h-100.shadow-app.text-center
                   img(src='@/assets/curso/tema1/icono-2.svg' alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
-                  p.text-center Identificados como elementos del proceso de producción con destino a ser vendido.
+                  p.text-center Identificados como elementos del proceso de producción con destino a ser vendidos.
                 .tarjeta.bg-color-white.p-4.h-100.shadow-app.text-center
                   img(src='@/assets/curso/tema1/icono-3.svg' alt='AvatarTop' style="max-width: 90px").mx-auto.mb-3
                   p.text-center Establecidos como materiales o suministros que serán consumidos en el proceso de producción o en la prestación de servicios.
