@@ -56,7 +56,7 @@
               p.mb-0 Una NIIF se aplica específicamente a una transacción y las políticas contables aplicadas a esa partida se determinarán con dicha NIIF.
             li.mb-3.d-flex.mb-2 
               i.fas.fa-chevron-right
-              p.mb-0 En las NIIF se establecen políticas contables sobre las que el IASB (International Accounting Standards Board (Junta de Normas Internacionales de Contabilidad) ha llegado a la conclusión de que dan lugar a estados financieros con información relevante y fiable sobre las transacciones.
+              p.mb-0 En las NIIF se establecen políticas contables sobre las que el IASB #[em International Accounting Standards Board] (Junta de Normas Internacionales de Contabilidad) ha llegado a la conclusión de que dan lugar a estados financieros con información relevante y fiable sobre las transacciones.
             li.mb-3.d-flex.mb-2
               i.fas.fa-chevron-right
               p.mb-0 Las NIIF se acompañan de guías que ayudan a las entidades a aplicar sus requerimientos.
@@ -326,83 +326,83 @@
                 tr.bg-color-white
                   td.text-center 0
                   td Inventario inicial
-                  td.text-center -
-                  td.text-center -
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 80
-                  td.text-center 5.000
-                  td.text-center 400.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 80
+                  td.text-center.text-right 5.000
+                  td.text-center.text-right 400.000
                 tr.bg-color-7
                   td.text-center 1
                   td Compra
-                  td.text-center 120
-                  td.text-center 660.000
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 200
-                  td.text-center 5.300
-                  td.text-center 1.060.000
+                  td.text-center.text-right 120
+                  td.text-center.text-right $660.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 200
+                  td.text-center.text-right $5.300
+                  td.text-center.text-right $1.060.000
                 tr.bg-color-white
                   td.text-center 2
                   td Compra
-                  td.text-center 100
-                  td.text-center 600.000
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 300
-                  td.text-center 5.533
-                  td.text-center 1.660.000
+                  td.text-center.text-right 100
+                  td.text-center.text-right $600.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 300
+                  td.text-center.text-right $5.533
+                  td.text-center.text-right $1.660.000
                 tr.bg-color-7
                   td.text-center 3
                   td Devolución compra 2
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 10
-                  td.text-center 60.000
-                  td.text-center 290
-                  td.text-center 5.517
-                  td.text-center 1.600.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 10
+                  td.text-center.text-right $60.000
+                  td.text-center.text-right 290
+                  td.text-center.text-right $5.517
+                  td.text-center.text-right $1.600.000
                 tr.bg-color-white
                   td.text-center 4
                   td Venta
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 190
-                  td.text-center 1.048.276
-                  td.text-center 100
-                  td.text-center 5.517
-                  td.text-center 551.724
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 190
+                  td.text-center.text-right $1.048.276
+                  td.text-center.text-right 100
+                  td.text-center.text-right $5.517
+                  td.text-center.text-right $551.724
                 tr.bg-color-7
                   td.text-center 5
                   td Devolución venta 4
-                  td.text-center 10
-                  td.text-center 55.172
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 110
-                  td.text-center 5.517
-                  td.text-center 606.897
+                  td.text-center.text-right 10
+                  td.text-center.text-right $55.172
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 110
+                  td.text-center.text-right $5.517
+                  td.text-center.text-right $606.897
                 tr.bg-color-white
                   td.text-center 6
                   td Compra
-                  td.text-center 90
-                  td.text-center 585.000
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 200
-                  td.text-center 5.959
-                  td.text-center 1.191.897
+                  td.text-center.text-right 90
+                  td.text-center.text-right $585.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 200
+                  td.text-center.text-right $5.959
+                  td.text-center.text-right $1.191.897
                 tr.bg-color-7
                   td.text-center 7
                   td Venta
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 100
-                  td.text-center 595.948
-                  td.text-center 100
-                  td.text-center 5.959
-                  td.text-center 595.948
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 100
+                  td.text-center.text-right $595.948
+                  td.text-center.text-right 100
+                  td.text-center.text-right $5.959
+                  td.text-center.text-right $595.948
 
         p.mb-5 Contablemente quedará así:
 
@@ -618,102 +618,109 @@
                 tr
                   th.text-center.bg-color-acento-contenido(style="width: 5%") F
                   th.text-center.bg-color-acento-contenido(style="width: 20%") Concepto
-                  th.text-center.bg-color-acento-contenido Unidades entrantes
-                  th.text-center.bg-color-acento-contenido Costo total entradas
-                  th.text-center.bg-color-acento-contenido Unidades salientes
-                  th.text-center.bg-color-acento-contenido Costo total salidas
-                  th.text-center.bg-color-acento-contenido Unidades en saldo
-                  th.text-center.bg-color-acento-contenido Costo unitario saldo
-                  th.text-center.bg-color-acento-contenido Costo total saldo
+                  th.text-center.bg-color-acento-contenido(colspan="2") Entradas
+                  th.text-center.bg-color-acento-contenido(colspan="2") Salidas
+                  th.text-center.bg-color-acento-contenido(colspan="3") Saldos
+                tr
+                  th.text-center.bg-color-acento-contenido(style="width: 5%") F
+                  th.text-center.bg-color-acento-contenido(style="width: 20%") Concepto
+                  th.text-center.bg-color-acento-contenido U
+                  th.text-center.bg-color-acento-contenido C.TOTAL
+                  th.text-center.bg-color-acento-contenido U
+                  th.text-center.bg-color-acento-contenido C.TOTAL
+                  th.text-center.bg-color-acento-contenido U
+                  th.text-center.bg-color-acento-contenido C.UN
+                  th.text-center.bg-color-acento-contenido C.TOTAL
+              
 
               tbody
                 tr.bg-color-white
                   td.text-center 0
                   td Inv. Ini
-                  td.text-center -
-                  td.text-center -
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 80
-                  td.text-center 5.000
-                  td.text-center 400.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 80
+                  td.text-center.text-right $5.000
+                  td.text-center.text-right $400.000
 
                 tr.bg-color-7
                   td.text-center 1
                   td Compra
-                  td.text-center 120
-                  td.text-center 660.000
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 200
-                  td.text-center 5.300
-                  td.text-center 1.060.000
+                  td.text-center.text-right 120
+                  td.text-center.text-right $660.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 200
+                  td.text-center.text-right $5.300
+                  td.text-center.text-right $1.060.000
 
                 tr.bg-color-white
                   td.text-center 2
                   td Compra
-                  td.text-center 100
-                  td.text-center 600.000
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 300
-                  td.text-center 5.533
-                  td.text-center 1.660.000
+                  td.text-center.text-right 100
+                  td.text-center.text-right $600.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 300
+                  td.text-center.text-right $5.533
+                  td.text-center.text-right $1.660.000
 
                 tr.bg-color-7
                   td.text-center 3
                   td D.Com.2
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 10
-                  td.text-center 60.000
-                  td.text-center 290
-                  td.text-center 5.517
-                  td.text-center 1.600.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 10
+                  td.text-center.text-right $60.000
+                  td.text-center.text-right 290
+                  td.text-center.text-right $5.517
+                  td.text-center.text-right $1.600.000
 
                 tr.bg-color-white
                   td.text-center 4
                   td Venta
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 190
-                  td.text-center 1.048.276
-                  td.text-center 100
-                  td.text-center 5.517
-                  td.text-center 551.724
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 190
+                  td.text-center.text-right $1.048.276
+                  td.text-center.text-right 100
+                  td.text-center.text-right $5.517
+                  td.text-center.text-right $551.724
 
                 tr.bg-color-7
                   td.text-center 5
                   td D.Ven.4
-                  td.text-center 10
-                  td.text-center 55.172
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 110
-                  td.text-center 5.517
-                  td.text-center 606.897
+                  td.text-center.text-right 10
+                  td.text-center.text-right 55.172
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 110
+                  td.text-center.text-right $5.517
+                  td.text-center.text-right $606.897
 
                 tr.bg-color-white
                   td.text-center 6
                   td Compra
-                  td.text-center 90
-                  td.text-center 585.000
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 200
-                  td.text-center 5.959
-                  td.text-center 1.191.897
+                  td.text-center.text-right 90
+                  td.text-center.text-right 585.000
+                  td.text-center.text-right -
+                  td.text-center.text-right -
+                  td.text-center.text-right 200
+                  td.text-center.text-right $5.959
+                  td.text-center.text-right $1.191.897
 
                 tr.bg-color-7
                   td.text-center 7
                   td Venta
-                  td.text-center -
-                  td.text-center -
-                  td.text-center 100
-                  td.text-center 595.948
-                  td.text-center 100
-                  td.text-center 5.959
-                  td.text-center 595.948
+                  td.text-center.text-right  -
+                  td.text-center.text-right -
+                  td.text-center.text-right 100
+                  td.text-center.text-right $595.948
+                  td.text-center.text-right 100
+                  td.text-center.text-right $5.959
+                  td.text-center.text-right $595.948
 
         p.mb-5 Contablemente quedará así:
 
@@ -736,44 +743,44 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 0
-                        td.text-center 400.000
-                        td.text-center -
+                        td.text-center.text-right $400.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 1
-                        td.text-center 660.000
-                        td.text-center -
+                        td.text-center.text-right $660.000
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center 2
-                        td.text-center 600.000
-                        td.text-center -
+                        td.text-center.text-right $600.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 5
-                        td.text-center 55.000
-                        td.text-center -
+                        td.text-center.text-right $55.000
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center 6
-                        td.text-center 585.000
-                        td.text-center -
+                        td.text-center.text-right $585.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 3
-                        td.text-center -
-                        td.text-center 60.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $60.000
                       tr.bg-color-white
                         td.text-center 4
-                        td.text-center -
-                        td.text-center 1.005.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $1.005.000
                       tr.bg-color-7
                         td.text-center 7
-                        td.text-center -
-                        td.text-center 590.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $590.000
                       tr.bg-color-white
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 2.300.000]
-                        td.text-center #[strong 1.655.000]
+                        td.text-center.text-right $2.300.000
+                        td.text-center.text-right $1.655.000
                       tr.bg-color-7
                         td.text-center #[strong Saldo final]
-                        td.text-center -
-                        td.text-center #[strong 645.000]
+                        td.text-center.text-right -
+                        td.text-center.text-right #[strong $645.000]
 
               .col-lg-6
                 .titulo-sexto.color-acento-contenido
@@ -789,45 +796,45 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 3
-                        td.text-center 60.000
-                        td.text-center -
+                        td.text-center.text-right $60.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 4
-                        td.text-center 2.850.000
-                        td.text-center -
+                        td.text-center.text-right $2.850.000
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center 7
-                        td.text-center 1.500.000
-                        td.text-center -
+                        td.text-center.text-right $1.500.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 1
-                        td.text-center -
-                        td.text-center 660.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $660.000
                       tr.bg-color-white
                         td.text-center 2
-                        td.text-center -
-                        td.text-center 600.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $600.000
                       tr.bg-color-7
                         td.text-center 5
-                        td.text-center -
-                        td.text-center 150.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $150.000
                       tr.bg-color-white
                         td.text-center 6
-                        td.text-center -
-                        td.text-center 585.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $585.000
                       tr.bg-color-7
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 4.410.000]
-                        td.text-center #[strong 1.995.000]
+                        td.text-center.text-right #[strong $4.410.000]
+                        td.text-center.text-right #[strong $1.995.000]
                       tr.bg-color-white
                         td.text-center #[strong Saldo final]
-                        td.text-center -
-                        td.text-center #[strong 2.415.000]
+                        td.text-center.text-right -
+                        td.text-center.text-right #[strong $2.415.000]
 
 
             #tablas11-12-13
-            .row
-              .col-xl-4
+            .row.justify-content-center.mb-4
+              .col-xl-10
                 .titulo-sexto.color-acento-contenido
                   h5 Tabla 11.
                   span Cuenta 4135 - Ventas
@@ -840,15 +847,15 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 4
-                        td.text-center 2.850.000
+                        td.text-center.text-right $2.850.000
                       tr.bg-color-7
                         td.text-center 7
-                        td.text-center 1.500.000
+                        td.text-center.text-right $1.500.000
                       tr.bg-color-white
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 4.350.000]
-
-              .col-xl-4
+                        td.text-center.text-right #[strong $4.350.000]
+            .row.justify-content-center.mb-4
+              .col-xl-10
                 .titulo-sexto.color-acento-contenido
                   h5 Tabla 12.
                   span Cuenta 4175 - Devoluciones en ventas
@@ -861,12 +868,12 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 5
-                        td.text-center 150.000
+                        td.text-center.text-right $150.000
                       tr.bg-color-7
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 150.000]
-
-              .col-xl-4
+                        td.text-center.text-right #[strong $150.000]
+            .row.justify-content-center.mb-4
+              .col-xl-10
                 .titulo-sexto.color-acento-contenido
                   h5 Tabla 13.
                   span Cuenta (posiblemente 6135) - Costo de ventas
@@ -880,24 +887,24 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 4
-                        td.text-center 1.005.000
-                        td.text-center -
+                        td.text-center.text-right $1.005.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 5
-                        td.text-center -
-                        td.text-center 55.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $55.000
                       tr.bg-color-white
                         td.text-center 7
-                        td.text-center 590.000
-                        td.text-center -
+                        td.text-center.text-right $590.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 1.595.000]
-                        td.text-center #[strong 55.000]
+                        td.text-center.text-right #[strong $1.595.000]
+                        td.text-center.text-right #[strong $55.000]
                       tr.bg-color-white
                         td.text-center #[strong Saldo final]
-                        td.text-center -
-                        td.text-center #[strong 1.540.000]
+                        td.text-center.text-right -
+                        td.text-center.text-right #[strong $1.540.000]
 
     Separador
 
@@ -973,13 +980,13 @@
                   tr.bg-color-white
                     td.text-center AC
                     td Anticipo a proveedores
-                    td.text-center 5.000.000
-                    td.text-center -
+                    td.text-center.text-right $5.000.000
+                    td.text-center.text-right -
                   tr.bg-color-7
                     td.text-center AC
                     td Efectivo y equivalentes al efectivo
-                    td.text-center -
-                    td.text-center 5.000.000
+                    td.text-center.text-right -
+                    td.text-center.text-right $5.000.000
 
       div(numero="2" titulo="Compra inventarios") 
         p Compra inventarios para la venta por $19.500.000 más IVA 19%, menos retefuente 2,5% y reteica 0,4%. Legaliza el anticipo y el. saldo a crédito.
@@ -1000,33 +1007,33 @@
                   tr.bg-color-white
                     td.text-center AC
                     td Inv. Mercancías
-                    td.text-center 19.500.000
-                    td.text-center -
+                    td.text-center.text-right $19.500.000
+                    td.text-center.text-right -
                   tr.bg-color-7
                     td.text-center PS
                     td IVA Descontable
-                    td.text-center 3.705.000
-                    td.text-center -
+                    td.text-center.text-right $3.705.000
+                    td.text-center.text-right -
                   tr.bg-color-white
                     td.text-center PS
                     td Retefuente 2,5%
-                    td.text-center -
-                    td.text-center 487.500
+                    td.text-center.text-right -
+                    td.text-center.text-right $487.500
                   tr.bg-color-7
                     td.text-center PS
                     td Reteica 0,4%
-                    td.text-center -
-                    td.text-center 78.000
+                    td.text-center.text-right -
+                    td.text-center.text-right $78.000
                   tr.bg-color-white
                     td.text-center AC
                     td Anticipo a proveedores
-                    td.text-center -
-                    td.text-center 5.000.000
+                    td.text-center.text-right -
+                    td.text-center.text-right $5.000.000
                   tr.bg-color-7
                     td.text-center PS
                     td Proveedores
-                    td.text-center -
-                    td.text-center 17.639.500
+                    td.text-center.text-right -
+                    td.text-center.text-right $17.639.500
 
       div(numero="3" titulo="Devolución inventarios") 
         p Devuelve a su proveedor inventarios por $ 1.500.000 incluido IVA 19 %
@@ -1049,28 +1056,28 @@
                   tr.bg-color-white
                     td.text-center AC
                     td Inventarios para la venta
-                    td.text-center -
-                    td.text-center 1.260.504
+                    td.text-center.text-right -
+                    td.text-center.text-right $1.260.504
                   tr.bg-color-7
                     td.text-center PS
                     td IVA Descontable
-                    td.text-center -
-                    td.text-center 239.496
+                    td.text-center.text-right -
+                    td.text-center.text-right $239.496
                   tr.bg-color-white
                     td.text-center PS
                     td Retefuente 2,5%
-                    td.text-center 31.513
-                    td.text-center -
+                    td.text-center.text-right $31.513
+                    td.text-center.text-right -
                   tr.bg-color-7
                     td.text-center PS
                     td Reteica 0,4%
-                    td.text-center 5.042
-                    td.text-center -
+                    td.text-center.text-right $5.042
+                    td.text-center.text-right -
                   tr.bg-color-white
                     td.text-center PS
                     td Cuentas por Pagar – Proveedores
-                    td.text-center 1.463.445
-                    td.text-center -
+                    td.text-center.text-right $1.463.445
+                    td.text-center.text-right -
 
       div(numero="4" titulo="Venta de inventarios") 
         p Vende inventarios por un precio de $ 11.500.000 incluido IVA 19 %, menos: retefuente 2,5 %, reteiva 15 % y reteica 0,4 %. Le pagan el 40 % y el saldo a crédito (65 % Gasto de Venta)
@@ -1093,53 +1100,53 @@
                   tr.bg-color-white
                     td.text-center IN
                     td Venta de inventarios
-                    td.text-center -
-                    td.text-center 9.663.866
+                    td.text-center.text-right -
+                    td.text-center.text-right $9.663.866
                   tr.bg-color-7
                     td.text-center PS
                     td IVA Generado
-                    td.text-center -
-                    td.text-center 1.836.134
+                    td.text-center.text-right -
+                    td.text-center.text-right $1.836.134
                   tr.bg-color-white
                     td.text-center AC
                     td Anticipo Retefuente 2,5%
-                    td.text-center 241.597
-                    td.text-center -
+                    td.text-center.text-right $241.597
+                    td.text-center.text-right -
                   tr.bg-color-7
                     td.text-center AC
                     td Anticipo Reteiva 15%
-                    td.text-center 275.420
-                    td.text-center -
+                    td.text-center.text-right $275.420
+                    td.text-center.text-right -
                   tr.bg-color-white
                     td.text-center AC
                     td Anticipo Reteica 0,4%
-                    td.text-center 38.655
-                    td.text-center -
+                    td.text-center.text-right $38.655
+                    td.text-center.text-right -
                   tr.bg-color-7
                     td.text-center AC
                     td Cuentas por cobrar Clientes
-                    td.text-center 10.944.328
-                    td.text-center -
+                    td.text-center.text-right $10.944.328
+                    td.text-center.text-right -
                   tr.bg-color-white
                     td.text-center AC
                     td Cuentas por cobrar Clientes
-                    td.text-center -
-                    td.text-center 4.377.731
+                    td.text-center.text-right -
+                    td.text-center.text-right $4.377.731
                   tr.bg-color-7
                     td.text-center AC
                     td Efectivo y equivalentes al efectivo
-                    td.text-center 4.377.731
-                    td.text-center -
+                    td.text-center.text-right $4.377.731
+                    td.text-center.text-right -
                   tr.bg-color-white.text-red
                     td.text-center GA
                     td Gasto de venta
-                    td.text-center 6.281.513
-                    td.text-center -
+                    td.text-center.text-right $6.281.513
+                    td.text-center.text-right -
                   tr.bg-color-7.text-red
                     td.text-center AC
                     td Inventarios para la venta
-                    td.text-center -
-                    td.text-center 6.281.513
+                    td.text-center.text-right -
+                    td.text-center.text-right $6.281.513
 
 
       div(numero="5" titulo="Devolución de mercancía") 
@@ -1163,43 +1170,43 @@
                   tr.bg-color-white
                     td.text-center IN
                     td Devoluciones en venta
-                    td.text-center 850.000
-                    td.text-center -
+                    td.text-center.text-right $850.000
+                    td.text-center.text-right -
                   tr.bg-color-7
                     td.text-center PS
                     td IVA Generado
-                    td.text-center 161.500
-                    td.text-center .
+                    td.text-center.text-right $161.500
+                    td.text-center.text-right -
                   tr.bg-color-white
                     td.text-center AC
                     td Anticipo Retefuente 2,5%
-                    td.text-center -
-                    td.text-center 21.250
+                    td.text-center.text-right -
+                    td.text-center.text-right $21.250
                   tr.bg-color-7
                     td.text-center AC
                     td Anticipo Reteiva 15%
-                    td.text-center -
-                    td.text-center 24.225
+                    td.text-center.text-right -
+                    td.text-center.text-right $24.225
                   tr.bg-color-white
                     td.text-center AC
                     td Anticipo Reteica 0,4%
-                    td.text-center -
-                    td.text-center 3.400
+                    td.text-center.text-right -
+                    td.text-center.text-right $3.400
                   tr.bg-color-7
                     td.text-center AC
                     td Cuentas por cobrar Clientes
-                    td.text-center -
-                    td.text-center 962.625
+                    td.text-center.text-right -
+                    td.text-center.text-right $xww962.625
                   tr.bg-color-white
                     td.text-center GA
                     td Gasto de venta
-                    td.text-center -
-                    td.text-center 552.500
+                    td.text-center.text-right -
+                    td.text-center.text-right $552.500
                   tr.bg-color-7.text-red
                     td.text-center AC
                     td Inventarios para la venta
-                    td.text-center 552.500
-                    td.text-center -
+                    td.text-center.text-right $552.500
+                    td.text-center.text-right -
 
 
     Separador

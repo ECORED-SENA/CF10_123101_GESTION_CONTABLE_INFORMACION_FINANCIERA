@@ -171,36 +171,33 @@
                 tbody
                   tr.bg-color-white
                     td Inventarios para la venta
-                    td.text-center 10.100.000
+                    td.text-center.text-right $10.100.000
                     td.text-center -
                   tr.bg-color-7
                     td IVA Descontable
-                    td.text-center 1.919.000
+                    td.text-center.text-right $1.919.000
                     td.text-center -
                   tr.bg-color-white
                     td Cuentas por Pagar - Proveedores
-                    td.text-center -
-                    td.text-center 11.705.900
+                    td.text-center.text-right -
+                    td.text-center.text-right $11.705.900
                   tr.bg-color-7
                     td Retefuente 2,5 %
-                    td.text-center -
-                    td.text-center 252.500
+                    td.text-center.text-right -
+                    td.text-center.text-right $252.500
                   tr.bg-color-white
                     td Retención 0,6 %
-                    td.text-center -
-                    td.text-center 60.600
+                    td.text-center.text-right -
+                    td.text-center.text-right $60.600
                   tr.bg-color-7
                     td Cuentas por Pagar - Proveedores
-                    td.text-center 3.511.770
-                    td.text-center -
+                    td.text-center.text-right $3.511.770
+                    td.text-center.text-right -
                   tr.bg-color-white
-                    td Cuentas por Pagar - Proveedores
-                    td.text-center -
-                    td.text-center 3.511.770
-                  tr.bg-color-7
                     td Efectivo
-                    td.text-center -
-                    td.text-center -
+                    td.text-center.text-right -
+                    td.text-center.text-right $3.511.770
+
 
         Separador
 
