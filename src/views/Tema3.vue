@@ -172,28 +172,28 @@
                       tr.bg-color-white
                         td.text-center IN
                         td Venta de inventarios
-                        td.text-center -
-                        td.text-center 10.840.336
+                        td.text-center.text-right -
+                        td.text-center.text-right $10.840.336
                       tr.bg-color-7
                         td.text-center PS
                         td IVA Generado
-                        td.text-center -
-                        td.text-center 2.059.664
+                        td.text-center.text-right -
+                        td.text-center.text-right $2.059.664
                       tr.bg-color-white
                         td.text-center AC
                         td Anticipo Retefuente 2,5%
-                        td.text-center 271.008
-                        td.text-center -
+                        td.text-center.text-right $271.008
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center AC
                         td Anticipo Reteica 0,6%
-                        td.text-center 65.042
-                        td.text-center -
+                        td.text-center.text-right $65.042
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center AC
                         td Cuentas por cobrar Clientes
-                        td.text-center 12.563.950
-                        td.text-center -
+                        td.text-center.text-right $12.563.950
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center AC
                         td Cuentas por cobrar Clientes
@@ -202,18 +202,18 @@
                       tr.bg-color-white
                         td.text-center AC
                         td Efectivo y equivalentes al efectivo
-                        td.text-center 12.563.950
-                        td.text-center -
+                        td.text-center.text-right $12.563.950
+                        td.text-center.text-right -
                       tr.bg-color-7.text-red
                         td.text-center GA
                         td Gasto de venta
-                        td.text-center 6.504.202
-                        td.text-center -
+                        td.text-center.text-right $6.504.202
+                        td.text-center.text-right -
                       tr.bg-color-white.text-red
                         td.text-center AC
                         td Inventarios para la venta
-                        td.text-center -
-                        td.text-center 6.504.202
+                        td.text-center.text-right -
+                        td.text-center.text-right $6.504.202
 
 
             ol.lista-ol--cuadro.mb-5
@@ -245,38 +245,38 @@
                       tr.bg-color-white
                         td.text-center IN
                         td Devoluciones en Venta
-                        td.text-center 1.000.000
+                        td.text-center.text-right $1.000.000
                         td.text-center -
                       tr.bg-color-7
                         td.text-center PS
                         td IVA Generado
-                        td.text-center 190.000
-                        td.text-center -
+                        td.text-center.text-right $190.000
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center AC
                         td Anticipo Retefuente 2,5%
-                        td.text-center -
-                        td.text-center -
+                        td.text-center.text-right -
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center AC
                         td Anticipo Reteica 0,6%
-                        td.text-center -
-                        td.text-center 25.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $25.000
                       tr.bg-color-white
                         td.text-center AC
                         td Efectivo y equivalentes al efectivo
-                        td.text-center -
-                        td.text-center 6.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $6.000
                       tr.bg-color-7.text-red
                         td.text-center GA
                         td Gasto de venta
-                        td.text-center -
-                        td.text-center 1.159.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $1.159.000
                       tr.bg-color-white.text-red
                         td.text-center AC
                         td Inventarios para la venta
-                        td.text-center 600.000
-                        td.text-center 600.000
+                        td.text-center.text-right $600.000
+                        td.text-center.text-right $600.000
 
 
     Separador

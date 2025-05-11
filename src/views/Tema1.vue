@@ -331,8 +331,8 @@
                   td.text-center.text-right -
                   td.text-center.text-right -
                   td.text-center.text-right 80
-                  td.text-center.text-right 5.000
-                  td.text-center.text-right 400.000
+                  td.text-center.text-right $5.000
+                  td.text-center.text-right $400.000
                 tr.bg-color-7
                   td.text-center 1
                   td Compra
@@ -426,44 +426,44 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 0
-                        td.text-center 400.000
-                        td.text-center -
+                        td.text-center.text-right $400.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 1
-                        td.text-center 660.000
-                        td.text-center -
+                        td.text-center.text-right $660.000
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center 2
-                        td.text-center 600.000
-                        td.text-center -
+                        td.text-center.text-right $600.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 3
-                        td.text-center -
-                        td.text-center 60.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $60.000
                       tr.bg-color-white
                         td.text-center 4
-                        td.text-center -
-                        td.text-center 1.048.276
+                        td.text-center.text-right -
+                        td.text-center.text-right $1.048.276
                       tr.bg-color-7
                         td.text-center 5
-                        td.text-center 55.172
-                        td.text-center -
+                        td.text-center.text-right $55.172
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center 6
-                        td.text-center 585.000
-                        td.text-center -
+                        td.text-center.text-right $585.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 7
-                        td.text-center -
-                        td.text-center 595.948
+                        td.text-center.text-right -
+                        td.text-center.text-right $595.948
                       tr.bg-color-white
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 2.300.172]
-                        td.text-center #[strong 1.704.224]
+                        td.text-center.text-right #[strong $2.300.172]
+                        td.text-center.text-right #[strong $1.704.224]
                       tr.bg-color-7
                         td.text-center #[strong Saldo]
-                        td.text-center -
-                        td.text-center #[strong 595.949]
+                        td.text-center.text-right -
+                        td.text-center.text-right #[strong $595.949]
 
               .col-lg-6
                 .titulo-sexto.color-acento-contenido
@@ -479,36 +479,36 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 3
-                        td.text-center 60.000
-                        td.text-center -
+                        td.text-center.text-right $60.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 4
-                        td.text-center 2.850.000
-                        td.text-center -
+                        td.text-center.text-right $2.850.000
+                        td.text-center.text-right -
                       tr.bg-color-white
                         td.text-center 7
-                        td.text-center 1.500.000
-                        td.text-center -
+                        td.text-center.text-right $1.500.000
+                        td.text-center.text-right -
                       tr.bg-color-7
                         td.text-center 1
-                        td.text-center -
-                        td.text-center 660.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $660.000
                       tr.bg-color-white
                         td.text-center 2
-                        td.text-center -
-                        td.text-center 600.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $600.000
                       tr.bg-color-7
                         td.text-center 6
-                        td.text-center -
-                        td.text-center 585.000
+                        td.text-center.text-right -
+                        td.text-center.text-right $585.000
                       tr.bg-color-white
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 4.410.000]
-                        td.text-center #[strong 1.995.000]
+                        td.text-center.text-right #[strong $4.410.000]
+                        td.text-center.text-right #[strong $1.995.000]
                       tr.bg-color-7
                         td.text-center #[strong Saldo]
-                        td.text-center -
-                        td.text-center #[strong 2.415.000]  
+                        td.text-center.text-right -
+                        td.text-center.text-right #[strong $2.415.000]  
 
             #tablas5y6
             .row.mb-5
@@ -525,13 +525,13 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 4
-                        td.text-center 2.850.000
+                        td.text-center.text-right $2.850.000
                       tr.bg-color-7
                         td.text-center 7
-                        td.text-center 1.500.000
+                        td.text-center.text-right $1.500.000
                       tr.bg-color-white
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 4.350.000]
+                        td.text-center.text-right #[strong $4.350.000]
 
               .col-lg-6
                 .titulo-sexto.color-acento-contenido
@@ -546,10 +546,10 @@
                     tbody
                       tr.bg-color-white
                         td.text-center 5
-                        td.text-center 150.000
+                        td.text-center.text-right $150.000
                       tr.bg-color-7
                         td.text-center #[strong Totales]
-                        td.text-center #[strong 150.000]
+                        td.text-center.text-right #[strong $150.000]
 
     
     .bg-full-width.bg-fondo-3
@@ -775,8 +775,8 @@
                         td.text-center.text-right $590.000
                       tr.bg-color-white
                         td.text-center #[strong Totales]
-                        td.text-center.text-right $2.300.000
-                        td.text-center.text-right $1.655.000
+                        td.text-center.text-right #[strong $2.300.000]
+                        td.text-center.text-right #[strong $1.655.000]
                       tr.bg-color-7
                         td.text-center #[strong Saldo final]
                         td.text-center.text-right -

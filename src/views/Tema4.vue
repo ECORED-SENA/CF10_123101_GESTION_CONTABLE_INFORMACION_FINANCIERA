@@ -312,27 +312,27 @@
                         tr.bg-color-white
                           td Vigente
                           td.text-center 0-30
-                          td.text-center 50.000.000
+                          td.text-center.text-right $50.000.000
                         tr.bg-color-7
                           td Vencida
                           td.text-center 31-90
-                          td.text-center 10.500.000
+                          td.text-center.text-right $10.500.000
                         tr.bg-color-white
                           td Vencida
                           td.text-center 91-180
-                          td.text-center 4.000.000
+                          td.text-center.text-right $4.000.000
                         tr.bg-color-7
                           td Vencida
                           td.text-center 181-360
-                          td.text-center 5.500.000
+                          td.text-center.text-right $5.500.000
                         tr.bg-color-white
                           td Vencida
                           td.text-center +360
-                          td.text-center 2.000.000
+                          td.text-center.text-right $2.000.000
                         tr.bg-color-7
                           td.fw-bold Total cartera
                           td
-                          td.text-center.fw-bold 72.000.000
+                          td.text-center.fw-bold.text-right $72.000.000
 
 
             p.mb-4 Realiza las siguientes transacciones:
@@ -389,27 +389,27 @@
                 tr.bg-color-white
                   td Vencida
                   td.text-center 91-180
-                  td.text-center $4.000.000
+                  td.text-center.text-right $4.000.000
                   td.text-center 5 %
-                  td.text-center $200.000
+                  td.text-center.text-right $200.000
                 tr.bg-color-7
                   td Vencida
                   td.text-center 181-360
-                  td.text-center $5.500.000
+                  td.text-center.text-right $5.500.000
                   td.text-center 10 %
-                  td.text-center $550.000
+                  td.text-center.text-right $550.000
                 tr.bg-color-white
                   td Vencida
                   td.text-center 360
-                  td.text-center $2.000.000
+                  td.text-center.text-right $2.000.000
                   td.text-center 15 %
-                  td.text-center $300.000
+                  td.text-center.text-right $300.000
                 tr.bg-color-7
                   td -
                   td.text-center -
-                  td.text-center #[strong $11.500.000]
+                  td.text-center.text-right #[strong $11.500.000]
                   td.text-center -
-                  td.text-center #[strong $1.050.000]
+                  td.text-center.text-right #[strong $1.050.000]
 
 
         #Tabla24.mb-5
@@ -430,33 +430,33 @@
                 tr.bg-color-white
                   td Vencida
                   td.text-center 91-180
-                  td.text-center $4.000.000
+                  td.text-center.text-right $4.000.000
                   td.text-center 5 %
-                  td.text-center $200.000
+                  td.text-center.text-right $200.000
                 tr.bg-color-7
                   td Vencida
                   td.text-center 181-360
-                  td.text-center $5.500.000
+                  td.text-center.text-right $5.500.000
                   td.text-center 10 %
-                  td.text-center $550.000
+                  td.text-center.text-right $550.000
                 tr.bg-color-white
                   td Vencida
                   td.text-center 360
-                  td.text-center $1.800.000
+                  td.text-center.text-right $1.800.000
                   td.text-center 15 %
-                  td.text-center $270.000
+                  td.text-center.text-right $270.000
                 tr.bg-color-7
                   td -
                   td.text-center -
-                  td.text-center #[strong $11.300.000]
+                  td.text-center.text-right #[strong $11.300.000]
                   td.text-center -
-                  td.text-center #[strong $1.020.000]
+                  td.text-center.text-right #[strong $1.020.000]
                 tr.bg-color-white
                   td(colspan="4", style="text-align: right;") #[strong Provisión anterior:]
-                  td.text-center #[strong $1.050.000]
+                  td.text-center.text-right #[strong $1.050.000]
                 tr.bg-color-7
                   td(colspan="4", style="text-align: right;") #[strong Recuperación provisión:]
-                  td.text-center #[strong $30.000]
+                  td.text-center.text-right #[strong $30.000]
 
         p.mb-5 El reconocimiento contable quedará así:
 
@@ -477,38 +477,38 @@
                 tr.bg-color-white
                   td.text-center 130505
                   td Clientes Nacionales
-                  td.text-center 72.000.000
-                  td.text-center 11.500.000
+                  td.text-center.text-right $72.000.000
+                  td.text-center.text-right $11.500.000
                 tr.bg-color-7
                   td.text-center 139905
                   td Deterioro de cuentas por cobrar
-                  td.text-center -
-                  td.text-center 200.000
+                  td.text-center.text-right -
+                  td.text-center.text-right $200.000
                 tr.bg-color-white
                   td.text-center 1399
                   td Deterioro de cartera
-                  td.text-center 60.000
-                  td.text-center 2.070.000
+                  td.text-center.text-right $60.000
+                  td.text-center.text-right $2.070.000
                 tr.bg-color-7
                   td.text-center 5199
                   td Gasto por deterioro de cartera
-                  td.text-center 1.050.000
-                  td.text-center -
+                  td.text-center.text-right $1.050.000
+                  td.text-center.text-right -
                 tr.bg-color-white
                   td.text-center 421005
                   td Ingresos por intereses
-                  td.text-center -
-                  td.text-center 20.000
+                  td.text-center.text-right -
+                  td.text-center.text-right $20.000
                 tr.bg-color-7
                   td.text-center 110505
                   td Caja general
-                  td.text-center 220.000
-                  td.text-center -
+                  td.text-center.text-right $220.000
+                  td.text-center.text-right -
                 tr.bg-color-white
                   td.text-center 425035
                   td Recuperación de deterioro
-                  td.text-center -
-                  td.text-center 30.000
+                  td.text-center.text-right -
+                  td.text-center.text-right $30.000
 
 </template>
 
