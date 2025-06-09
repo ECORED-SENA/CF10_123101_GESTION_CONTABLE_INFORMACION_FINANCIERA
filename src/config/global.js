@@ -216,7 +216,7 @@ export default {
     {
       tema: 'Manejo de cartera fiscal',
       referencia:
-        'Gerencie. (2020, diciembre 16). <em>Provisión de Cartera.</em>',
+        'Gerencie. (2020, diciembre 16). <em>Provisión de cartera en el impuesto a la renta.</em>',
       tipo: 'Artículo web',
       link: 'https://www.gerencie.com/provision-de-cartera.html',
     },
@@ -309,7 +309,8 @@ export default {
       link: 'https://estatuto.co/?e=1126',
     },
     {
-      referencia: 'Gerencie (16 de diciembre de 2020). Provisión de Cartera',
+      referencia:
+        'Gerencie (16 de diciembre de 2020). Provisión de cartera en el impuesto a la renta.',
       link: 'https://www.gerencie.com/provision-de-cartera.html',
     },
     {

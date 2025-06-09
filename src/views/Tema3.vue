@@ -164,10 +164,10 @@
                   table
                     thead
                       tr
-                        th.bg-color-acento-contenido.text-center ELE
+                        th.bg-color-acento-contenido.text-center Ele
                         th.bg-color-acento-contenido.text-center Cuenta
-                        th.bg-color-acento-contenido.text-center Débito
-                        th.bg-color-acento-contenido.text-center Crédito
+                        th.bg-color-acento-contenido.text-center Debe
+                        th.bg-color-acento-contenido.text-center haber
                     tbody
                       tr.bg-color-white
                         td.text-center IN
@@ -237,7 +237,7 @@
                   table
                     thead
                       tr
-                        th.bg-color-acento-contenido.text-center ELE
+                        th.bg-color-acento-contenido.text-center Ele
                         th.bg-color-acento-contenido.text-center Cuenta
                         th.bg-color-acento-contenido.text-center Débito
                         th.bg-color-acento-contenido.text-center Crédito

@@ -56,7 +56,7 @@
               p.mb-0 Una NIIF se aplica específicamente a una transacción y las políticas contables aplicadas a esa partida se determinarán con dicha NIIF.
             li.mb-3.d-flex.mb-2 
               i.fas.fa-chevron-right
-              p.mb-0 En las NIIF se establecen políticas contables sobre las que el IASB #[em International Accounting Standards Board] (Junta de Normas Internacionales de Contabilidad) ha llegado a la conclusión de que dan lugar a estados financieros con información relevante y fiable sobre las transacciones.
+              p.mb-0 En las NIIF se establecen políticas contables sobre las que el IASB (#[em International Accounting Standards Board]) Junta de Normas Internacionales de Contabilidad ha llegado a la conclusión de que dan lugar a estados financieros con información relevante y fiable sobre las transacciones.
             li.mb-3.d-flex.mb-2
               i.fas.fa-chevron-right
               p.mb-0 Las NIIF se acompañan de guías que ayudan a las entidades a aplicar sus requerimientos.
@@ -461,8 +461,7 @@
                         td.text-center.text-right #[strong $2.300.172]
                         td.text-center.text-right #[strong $1.704.224]
                       tr.bg-color-7
-                        td.text-center #[strong Saldo]
-                        td.text-center.text-right -
+                        td(colspan="2").text-right #[strong Saldo]
                         td.text-center.text-right #[strong $595.949]
 
               .col-lg-6
@@ -506,8 +505,7 @@
                         td.text-center.text-right #[strong $4.410.000]
                         td.text-center.text-right #[strong $1.995.000]
                       tr.bg-color-7
-                        td.text-center #[strong Saldo]
-                        td.text-center.text-right -
+                        td(colspan="2").text-right #[strong Saldo]
                         td.text-center.text-right #[strong $2.415.000]  
 
             #tablas5y6
@@ -614,25 +612,15 @@
             table
               thead
                 tr
-                  th.colspan-9.text-center.bg-color-acento-contenido(colspan="9") PEPS : PRIMERAS EN ENTRAS PRIMERAS EN SALIR
-                tr
                   th.text-center.bg-color-acento-contenido(style="width: 5%") F
                   th.text-center.bg-color-acento-contenido(style="width: 20%") Concepto
-                  th.text-center.bg-color-acento-contenido(colspan="2") Entradas
-                  th.text-center.bg-color-acento-contenido(colspan="2") Salidas
-                  th.text-center.bg-color-acento-contenido(colspan="3") Saldos
-                tr
-                  th.text-center.bg-color-acento-contenido(style="width: 5%") F
-                  th.text-center.bg-color-acento-contenido(style="width: 20%") Concepto
-                  th.text-center.bg-color-acento-contenido U
-                  th.text-center.bg-color-acento-contenido C.TOTAL
-                  th.text-center.bg-color-acento-contenido U
-                  th.text-center.bg-color-acento-contenido C.TOTAL
-                  th.text-center.bg-color-acento-contenido U
-                  th.text-center.bg-color-acento-contenido C.UN
-                  th.text-center.bg-color-acento-contenido C.TOTAL
-              
-
+                  th.text-center.bg-color-acento-contenido Unidades entrantes
+                  th.text-center.bg-color-acento-contenido Costo total entradas
+                  th.text-center.bg-color-acento-contenido Unidades salientes
+                  th.text-center.bg-color-acento-contenido Costo total salidas
+                  th.text-center.bg-color-acento-contenido Unidades en saldo
+                  th.text-center.bg-color-acento-contenido Costo unitario saldo
+                  th.text-center.bg-color-acento-contenido Costo total saldo
               tbody
                 tr.bg-color-white
                   td.text-center 0
@@ -778,8 +766,7 @@
                         td.text-center.text-right #[strong $2.300.000]
                         td.text-center.text-right #[strong $1.655.000]
                       tr.bg-color-7
-                        td.text-center #[strong Saldo final]
-                        td.text-center.text-right -
+                        td(colspan="2").text-right #[strong Saldo final]
                         td.text-center.text-right #[strong $645.000]
 
               .col-lg-6
@@ -827,8 +814,7 @@
                         td.text-center.text-right #[strong $4.410.000]
                         td.text-center.text-right #[strong $1.995.000]
                       tr.bg-color-white
-                        td.text-center #[strong Saldo final]
-                        td.text-center.text-right -
+                        td(colspan="2").text-right #[strong Saldo final]
                         td.text-center.text-right #[strong $2.415.000]
 
 
@@ -902,8 +888,7 @@
                         td.text-center.text-right #[strong $1.595.000]
                         td.text-center.text-right #[strong $55.000]
                       tr.bg-color-white
-                        td.text-center #[strong Saldo final]
-                        td.text-center.text-right -
+                        td(colspan="2").text-right #[strong Saldo final]
                         td.text-center.text-right #[strong $1.540.000]
 
     Separador
@@ -1196,7 +1181,7 @@
                     td.text-center AC
                     td Cuentas por cobrar Clientes
                     td.text-center.text-right -
-                    td.text-center.text-right $xww962.625
+                    td.text-center.text-right $962.625
                   tr.bg-color-white
                     td.text-center GA
                     td Gasto de venta
@@ -1246,7 +1231,7 @@
                   ul.lista-ul--color.mb-0
                     li.d-flex.mb-0
                       i.fas.fa-chevron-right
-                      p.mb-0 Las pérdidas por deterioro del valor reconocidas o revertidas en el resultado de acuerdo con la sección 27 de NIIF para Pymes “Deterioro del Valor de los Activos”(2009).
+                      p.mb-0 Las pérdidas por deterioro del valor reconocidas o revertidas en el resultado de acuerdo con la sección 27 de NIIF para Pymes “Deterioro del Valor de los Activos” (2009).
 
     p El importe total en libros de los inventarios pignorados en garantía de pasivos.
 

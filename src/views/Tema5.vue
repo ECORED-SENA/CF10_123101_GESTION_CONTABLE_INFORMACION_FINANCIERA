@@ -66,7 +66,7 @@
                         tr.bg-color-7
                           td 237005 Aportes salud
                           td.text-center -
-                          td.text-center 43.125
+                          td.text-center -
                         tr.bg-color-white
                           td 238030 Aportes pensión
                           td.text-center -
@@ -74,7 +74,7 @@
                         tr.bg-color-7
                           td 237030 Libranzas
                           td.text-center -
-                          td.text-center 100.000
+                          td.text-center 43.125
                         tr.bg-color-white
                           td 250505 Salarios por pagar
                           td.text-center -
