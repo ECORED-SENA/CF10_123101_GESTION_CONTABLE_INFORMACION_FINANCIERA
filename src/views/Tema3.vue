@@ -166,8 +166,8 @@
                       tr
                         th.bg-color-acento-contenido.text-center Ele
                         th.bg-color-acento-contenido.text-center Cuenta
-                        th.bg-color-acento-contenido.text-center Debe
-                        th.bg-color-acento-contenido.text-center haber
+                        th.bg-color-acento-contenido.text-center Débito
+                        th.bg-color-acento-contenido.text-center Crédito
                     tbody
                       tr.bg-color-white
                         td.text-center IN
